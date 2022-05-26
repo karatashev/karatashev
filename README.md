@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Vasil
 - 🚀 Fully focused & interested in Front end development
-- 🧮 I’m currently learning JavaScript
+- 🧮 I’m currently learning React.js
 - 📚 Enrolled on Front end React code academy
 - 📫 karatashev@gmail.com
 
