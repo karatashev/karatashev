@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Vasil
-- 🚀 Fully focused & interested in Front end development
+- 🚀 Frontend developer
 - 🧮 I’m currently learning React.js
 - 📚 Enrolled on Front end React code academy
 - 📫 karatashev@gmail.com
