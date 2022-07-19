@@ -5,7 +5,7 @@ Front end developer
 -------------------
 
 * 🌍  I'm based in Skopje
-* 🖥️  See my portfolio at [here](http://vasil-karatashev-portfolio.netlify.app/)
+* 🖥️  See my portfolio [here](http://vasil-karatashev-portfolio.netlify.app/)
 * ✉️  You can contact me at [karatashev@gmail.com](mailto:karatashev@gmail.com)
 * 🚀  I'm currently working on [Rick and Morty app](http://github.com/karatashev/Rick-and-Morty-React)
 * 🧠  I'm learning React js and Redux
