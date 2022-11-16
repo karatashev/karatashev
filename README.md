@@ -5,7 +5,7 @@ Front end developer
 -------------------
 
 * 🌍  I'm based in Skopje
-* 🖥️  See my portfolio [here](http://vasil-karatashev-portfolio.netlify.app/)
+* 🖥️  See my portfolio
 * ✉️  You can contact me at [karatashev@gmail.com](mailto:karatashev@gmail.com)
 * 🚀  I'm currently working on [FeelSK app](https://github.com/karatashev/FeelSK)
 * 🧠  I'm working with React.js and Sass
