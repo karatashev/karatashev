@@ -1,7 +1,7 @@
 Hi 👋 My name is Vasil
 ======================
 
-Front end developer
+Frontend developer
 -------------------
 
 * 🌍  I'm based in Skopje
