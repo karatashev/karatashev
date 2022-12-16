@@ -8,7 +8,7 @@ Frontend developer
 * 🖥️  See my portfolio
 * ✉️  You can contact me at [karatashev@gmail.com](mailto:karatashev@gmail.com)
 * 🚀  I'm currently working as fulltime Frontend developer in Skopje and also on my personal projects such as  [FeelSK app](https://github.com/karatashev/FeelSK)
-* 🧠  I'm working with React.js and Sass
+* 🧠  I'm working with React.js and im currently learning Typescript.
 * ⚡  UI enthusiast
 
 ### Skills
